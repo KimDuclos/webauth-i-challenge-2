@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KimDuclos/webauth-i-challenge#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "knex": "^0.16.3",
     "migrate": "^1.6.2",
     "sqlite": "^3.0.3",
